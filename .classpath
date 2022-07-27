@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/Jung 2.0/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="lib/Jung 2.0/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/Jung 2.0/concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/Jung 2.0/jung-3d-2.0.jar" sourcepath="lib/Jung 2.0/sources/jung-3d-2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/gViz/lib/Jung 2.0/doc.jar!/apidocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/Jung 2.0/jung-algorithms-2.0.jar" sourcepath="lib/Jung 2.0/sources/jung-algorithms-2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/gViz/lib/Jung 2.0/doc.jar!/apidocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/Jung 2.0/jung-api-2.0.jar" sourcepath="lib/Jung 2.0/sources/jung-api-2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/gViz/lib/Jung 2.0/doc.jar!/apidocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/Jung 2.0/jung-graph-impl-2.0.jar" sourcepath="lib/Jung 2.0/sources/jung-graph-impl-2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/gViz/lib/Jung 2.0/doc.jar!/apidocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/Jung 2.0/jung-io-2.0.jar" sourcepath="lib/Jung 2.0/sources/jung-io-2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/gViz/lib/Jung 2.0/doc.jar!/apidocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/Jung 2.0/jung-jai-2.0.jar" sourcepath="lib/Jung 2.0/sources/jung-jai-2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/gViz/lib/Jung 2.0/doc.jar!/apidocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/Jung 2.0/jung-visualization-2.0.jar" sourcepath="lib/Jung 2.0/sources/jung-visualization-2.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/gViz/lib/Jung 2.0/doc.jar!/apidocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/Jung 2.0/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/Jung 2.0/wstx-asl-3.2.6.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.5/mysql-connector-java-5.1.5-bin.jar" sourcepath="lib/mysql-connector-java-5.1.5/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

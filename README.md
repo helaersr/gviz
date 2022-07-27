@@ -7,7 +7,12 @@ We designed and developed gViz, a GraphML network visualization and exploration 
 
  More informartion in the [publication](https://doi.org/10.1186/1756-0500-4-452).
 
+Please refer to the pdf in documentation for detailled explanations on how to use the software.
+
 ## Citing gViz:
 R. Helaers, E. Bareke, B. De Meulder, M. Pierre, S. Depiereux, N. Habra & E. Depiereux - gViz, a novel tool for the visualization of co-expression networks. BMC Research Notes 2011, 4:452
 
 doi:10.1186/1756-0500-4-452
+
+## Screenshot
+![screenshot](./documentation/screenshot_1.png)
